@@ -33,7 +33,7 @@ deve ficar registrada no sistema, horário, nome do dentista, paciente, etc.)
 ### [Codacy](https://www.codacy.com/product)
 ### [Heroku](https://www.heroku.com/)
 ## :construction: Status do Projeto
-Em andamento
+Finalizado
 ## :keyboard: Acessando o sistema
 Para uso do sistema de maneira local, é necessário de antemão rodar o comando "rake db:seed" para que seja criado um usuário administrador padrão.
 Você poderá fazer Login no sistema com email admin@admin.com e senha 987654321
